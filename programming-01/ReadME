@@ -1,0 +1,4 @@
+##this program aims to train classify the handwritten digits with KNN and Naive Bayes algs
+Code files are based on Python2.7, to run the code:
+1. put the digits folder in the directory same with code files
+2. python nbc.py
